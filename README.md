@@ -86,7 +86,3 @@ The analysis code is released under the MIT License in this repository. The Stat
 Keeling, C.D. and T.P. Whorf (2004). *Atmospheric CO2 concentrations derived from flask air samples at sites in the SIO network*. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy. Dataset documentation: <https://www.statsmodels.org/stable/datasets/generated/co2.html>.
 
 For an updated series and current data access, see NOAA Global Monitoring Laboratory: <https://gml.noaa.gov/ccgg/trends/data.html> and Scripps CO2 Program: <https://scrippsco2.ucsd.edu/data/atmospheric_co2/mlo.html>.
-
-## Suggested GitHub repository name
-
-`mauna-loa-co2-trend-analysis`
