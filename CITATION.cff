@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite it and the original dataset."
+title: "Mauna Loa Atmospheric CO2 Trend Analysis (1958-2001)"
+authors:
+  - family-names: Akhauri
+    given-names: Teej
+type: software
+license: MIT
+references:
+  - type: dataset
+    title: "Mauna Loa Weekly Atmospheric CO2 Data"
+    authors:
+      - family-names: Keeling
+        given-names: C. D.
+      - family-names: Whorf
+        given-names: T. P.
+    url: "https://www.statsmodels.org/stable/datasets/generated/co2.html"
